@@ -1,11 +1,9 @@
 {
-  "name": "app",
-  "version": "1.0.0",
-  "description": "Scaffolding for the Electron Setup",
+  "name": "AngularElectron",
+  "version": "0.0.0",
+  "description": "AngularElectron",
   "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Siv S",
-  "license": "ISC"
+  "dependencies": {
+    "mysql": "2.9.0"
+  }
 }
